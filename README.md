@@ -10,3 +10,7 @@ One email can very easily take down a large corporation, so businesses need the 
 This is an example of a notebook to demonstrate concepts  OF # NLP.
 
 Natural Language Processing (NLP) is the art and science which helps us extract information from the text and use it in our computations and algorithms.
+
+# Other Useful Links:
+https://www.linkedin.com/in/narmada-ugale-b411a61ab/
+
